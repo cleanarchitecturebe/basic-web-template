@@ -1,0 +1,7 @@
+dependencies {
+    compile project(":domain")
+    compile project(":app-api")
+    compile project(":app-impl")
+    compile project(":infra-web")
+    compile project(":infra-persistence")
+}
